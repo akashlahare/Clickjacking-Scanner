@@ -37,6 +37,6 @@ Step 6: Download Scan Report
   After scanning, click on "Download Report" to generate a PDF summary of the results.
 
 3. Notes & Recommendations
-  Make sure you have Node.js installed before running the server.
-  If you encounter issues, check the console logs for debugging.
-  To deploy this tool online, you may use services like Heroku, Vercel, or AWS.
+Make sure you have Node.js installed before running the server.
+If you encounter issues, check the console logs for debugging.
+To deploy this tool online, you may use services like Heroku, Vercel, or AWS.
