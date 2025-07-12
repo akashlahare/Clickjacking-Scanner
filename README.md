@@ -4,11 +4,11 @@ This tool checks if a website is vulnerable to **Clickjacking attacks** by scann
 
 ---
 
-## ✅ How to Install and Use
+## How to Install and Use
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/Clickjacking-Scanner.git
+   git clone https://github.com/akashlahare/clickjacking-scanner.git
    cd Clickjacking-Scanner
    ```
 
