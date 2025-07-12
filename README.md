@@ -2,6 +2,8 @@
 
 This tool checks if a website is vulnerable to **Clickjacking attacks** by scanning for missing security headers like `X-Frame-Options` or `Content-Security-Policy`.
 
+![Clickjacking Scanner UI](https://github.com/akashlahare/clickjacking-scanner/blob/main/Clickjacking-Scanner.png?raw=true)
+
 ---
 
 ## How to Install and Use
