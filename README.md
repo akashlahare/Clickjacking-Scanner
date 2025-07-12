@@ -56,4 +56,5 @@ Clickjacking is a UI redress attack where attackers trick users into clicking hi
 
 ## 📄 License
 
-MIT License
+**MIT License**  
+[MIT License](https://choosealicense.com/licenses/mit/)
