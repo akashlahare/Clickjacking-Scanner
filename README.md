@@ -1,32 +1,59 @@
 # 🕵️‍♂️ Clickjacking Vulnerability Scanner
 
-This is a simple tool that helps you detect **Clickjacking vulnerabilities** in websites. It checks whether the target site allows itself to be embedded in an `<iframe>` and whether it uses secure headers like `X-Frame-Options` or `Content-Security-Policy (CSP)`.
-
-## 🛠️ Features
-
-- Detects if a website is vulnerable to Clickjacking.
-- Displays live website preview.
-- Shows recommendations based on headers.
-- Allows downloading a PDF report.
-- Simple and beautiful frontend.
+This tool checks if a website is vulnerable to **Clickjacking attacks** by scanning for missing security headers like `X-Frame-Options` or `Content-Security-Policy`.
 
 ---
 
-## 📁 Project Structure
-📦 Clickjacking-Scanner
-├── node_modules/
-├── server.js
-├── Clickjacking-Scanner.html
-├── package.json
-├── package-lock.json
+## ✅ How to Install and Use
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-username/Clickjacking-Scanner.git
+   cd Clickjacking-Scanner
+   ```
+
+2. **Install Dependencies**  
+   ```bash
+   npm install
+   ```
+   This will install required Node.js packages like `express`, `axios`, and `cors`.
+
+3. **Start the Backend Server**  
+   ```bash
+   node server.js
+   ```
+   You should see:  
+   ```
+   🚀 Server running on port 3000
+   ```
+
+4. **Open the Frontend**  
+   - Double-click the `Clickjacking-Scanner.html` file  
+   - It will open in your browser
+
+5. **Run a Scan**  
+   - Enter the target website URL (e.g., `https://example.com`)  
+   - Click the search icon or press **Enter**  
+   - View scan results and recommendations
+
+6. **Download Report (Optional)**  
+   - Click the **Download Report** button to save the result as a PDF
 
 ---
 
-## 🚀 How to Run
+## 💡 What is Clickjacking?
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/Clickjacking-Scanner.git
-cd Clickjacking-Scanner
+Clickjacking is a UI redress attack where attackers trick users into clicking hidden buttons or links by embedding your website in an invisible iframe. This tool helps detect whether a site is protected against such attacks.
 
-### 2. Install Dependencies
+---
+
+## 🔗 Author
+
+**Akash Lahare**  
+[LinkedIn](https://www.linkedin.com/in/akashlahare/)
+
+---
+
+## 📄 License
+
+MIT License
