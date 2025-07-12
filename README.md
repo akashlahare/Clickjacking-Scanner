@@ -29,4 +29,4 @@ This is a simple tool that helps you detect **Clickjacking vulnerabilities** in 
 git clone https://github.com/your-username/Clickjacking-Scanner.git
 cd Clickjacking-Scanner
 
-**### 2. Install Dependencies**
+### 2. Install Dependencies
