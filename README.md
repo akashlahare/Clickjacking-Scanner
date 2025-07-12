@@ -52,8 +52,8 @@ Clickjacking is a UI redress attack where attackers trick users into clicking hi
 ## 👨‍💻 Author
 
 **Akash Lahare**  
-🔗 [LinkedIn](https://www.linkedin.com/in/akashlahare/)  
-📂 [More Projects](https://github.com/akashlahare)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/akashlahare/)  
+### 📂 [More Projects](https://github.com/akashlahare)
 ---
 
 ## 📄 License
