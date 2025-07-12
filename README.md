@@ -7,7 +7,7 @@ Follow these steps to install and run the tool on your local machine.
 ### Step 1: Clone the Repository  
 Clone the GitHub repository to your system:  
 
-git clone https://github.com/yourusername/clickjacking-scanner.git
+git clone https://github.com/akashlahare/clickjacking-scanner.git
 cd clickjacking-scanner
 ### Step 2: Install Dependencies
 Install the required dependencies using:
