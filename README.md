@@ -13,4 +13,20 @@ This is a simple tool that helps you detect **Clickjacking vulnerabilities** in 
 ---
 
 ## 📁 Project Structure
+📦 Clickjacking-Scanner
+├── node_modules/
+├── server.js
+├── Clickjacking-Scanner.html
+├── package.json
+├── package-lock.json
 
+---
+
+## 🚀 How to Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/Clickjacking-Scanner.git
+cd Clickjacking-Scanner
+
+**### 2. Install Dependencies**
