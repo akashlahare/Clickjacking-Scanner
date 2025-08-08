@@ -29,7 +29,7 @@ This tool checks if a website is vulnerable to **Clickjacking attacks** by scann
    ```
    You should see:  
    ```
-   🚀 Server running on port 3000
+   Server running on port 3000
    ```
 
 4. **Open the Frontend**  
