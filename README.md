@@ -1,5 +1,8 @@
 # 🕵️‍♂️ Clickjacking Vulnerability Scanner
+---
+## 💡 What is Clickjacking?
 
+Clickjacking is a UI redress attack where attackers trick users into clicking hidden buttons or links by embedding your website in an invisible iframe. This tool helps detect whether a site is protected against such attacks.
 This tool checks if a website is vulnerable to **Clickjacking attacks** by scanning for missing security headers like `X-Frame-Options` or `Content-Security-Policy`.
 
 ![Clickjacking Scanner UI](https://github.com/akashlahare/clickjacking-scanner/blob/main/Clickjacking-Scanner.png?raw=true)
@@ -40,12 +43,6 @@ This tool checks if a website is vulnerable to **Clickjacking attacks** by scann
 
 6. **Download Report (Optional)**  
    - Click the **Download Report** button to save the result as a PDF
-
----
-
-## 💡 What is Clickjacking?
-
-Clickjacking is a UI redress attack where attackers trick users into clicking hidden buttons or links by embedding your website in an invisible iframe. This tool helps detect whether a site is protected against such attacks.
 
 ---
 
