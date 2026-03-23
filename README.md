@@ -21,7 +21,7 @@ This tool checks if a website is vulnerable to **Clickjacking attacks** by scann
    ```bash
    npm install
    ```
-   This will install required Node.js packages like `express`, `axios`, and `cors`.
+   Eg: Node.js packages like `express`, `axios`, and `cors`.
 
 3. **Start the Backend Server**  
    ```bash
