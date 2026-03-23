@@ -44,13 +44,3 @@ This tool checks if a website is vulnerable to **Clickjacking attacks** by scann
 6. **Download Report (Optional)**  
    - Click the **Download Report** button to save the result as a PDF
 
----
-
-## 👨‍💻 Author : Akash Lahare
-
-### 🔗 [LinkedIn](https://www.linkedin.com/in/akashlahare/)  
-### 📂 [More Projects](https://github.com/akashlahare)
----
-
-## 📄 License
- 🔗 [MIT License](https://choosealicense.com/licenses/mit/)
