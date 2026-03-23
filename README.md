@@ -1,4 +1,4 @@
-### Clickjacking Scanner (CLI)
+# Clickjacking Scanner (CLI)
 Simple CLI tool to detect Clickjacking vulnerabilities and generate an HTML report.
 
 ## Install:
@@ -6,15 +6,15 @@ python3 -m pip install --upgrade pip
 python3 -m pip install httpx pandas openpyxl
 
 ## Usage:
-# Single URL:
+### Single URL:
 python3 cliclickjacker.py -u example.com
 
-# Bulk Scan:
+### Bulk Scan:
 python3 cliclickjacker.py -f targets.txt
 
-# Save Report:
+### Save Report:
 python3 cliclickjacker.py -f targets.txt -o report.html
 
-# Supported Files:
+### Supported Files:
 * .txt          → one URL per line
 * .csv / .xlsx  → first column = URLs
