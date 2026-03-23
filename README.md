@@ -1,4 +1,4 @@
-# Clickjacking Scanner (CLI)
+# CLI Based Clickjacking Scanner
 Simple CLI tool to detect Clickjacking vulnerabilities and generate an HTML report.
 
 ## Install:
