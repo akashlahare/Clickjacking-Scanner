@@ -15,6 +15,6 @@ python3 cliclickjacker.py -f targets.txt
 ### Save Report:
 python3 cliclickjacker.py -f targets.txt -o report.html
 
-### Supported Files:
+## Supported Files:
 * .txt          → one URL per line
 * .csv / .xlsx  → first column = URLs
