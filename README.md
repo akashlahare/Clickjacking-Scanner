@@ -16,5 +16,5 @@ python3 cliclickjacker.py -f targets.txt
 python3 cliclickjacker.py -f targets.txt -o report.html
 
 ## Supported Files:
-* .txt          → one URL per line
-* .csv / .xlsx  → first column = URLs
+* .txt          → One URL per line
+* .csv / .xlsx  → First column = URLs
